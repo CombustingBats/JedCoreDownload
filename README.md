@@ -1,7 +1,7 @@
 # JedCoreDownload
 Download for JedCore releases
 
-To download, click the jar file you want, the click "View Raw" to begin the download!
+To download, click the jar file you want, then click "View Raw" to begin the download!
 
 **Latest version:** 2.0.5
 
