@@ -13,4 +13,4 @@ To download, click the jar file you want, then click "View Raw" to begin the dow
 **Version Support History:**
 [Click here to view!] (http://pastebin.com/raw/2Qfut1Tj)
 
-**Disclaimer:** JedCore is not a part of ProjectKorra. JedCore is an addon built for use with ProjectKorra. If you manage to break your server with JedCore I cannot be held responsible.
+**Disclaimer:** JedCore is not a part of ProjectKorra. JedCore is an addon built for use with ProjectKorra. If you manage to break your server with JedCore I cannot be held responsible. JedCore does contain a blacklist so I may prevent users who I don't feel are worthy of having access to my hard work from using it. Anyone who finds them selves blacklisted can message me and appeal to be removed.
