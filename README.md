@@ -13,4 +13,4 @@ To download, click the jar file you want, then click "View Raw" to begin the dow
 **Version Support History:**
 [Click here to view!] (http://pastebin.com/raw/2Qfut1Tj)
 
-**Disclaimer:** JedCore is not a part of with ProjectKorra. JedCore is an addon built for use with ProjectKorra.
+**Disclaimer:** JedCore is not a part of ProjectKorra. JedCore is an addon built for use with ProjectKorra.
