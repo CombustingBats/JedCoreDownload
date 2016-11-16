@@ -4,6 +4,11 @@ Download for JedCore releases
 To download, click the jar file you want, then click "View Raw" to begin the download!
 
 **Latest version:** 2.X.X-Spigot1.10.2-PK1.8.1
+**Fixes/Tweaks/Changes:**
+- Fixed EarthShard being derpy
+- Updated to MC 1.10.2
+- Updated to PK 1.8.1
+- Removed Blacklist
 
 **ProjectKorra versions supported:**
 - 1.8.0 BETA 10
