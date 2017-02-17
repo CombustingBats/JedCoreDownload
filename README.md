@@ -3,7 +3,7 @@ Download for JedCore releases
 
 To download, click the jar file you want, then click "View Raw" to begin the download!
 
-**Latest version:** 2.X.X-Spigot1.10.2-PK1.8.2
+**Latest version:** 2.X.X-Spigot1.10.2-PK1.8.2 _(Haven't tested but I believe this works on 1.8.3. Please let me know if it needs updating)_
 
 **Fixes/Tweaks/Changes (2.X.X-Spigot1.11.2-PK1.8.2):**
 - Updated to MC 1.11.2
